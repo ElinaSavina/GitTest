@@ -1,4 +1,4 @@
 public void Main(){
-	Console.WriteLine("HelloWorld!!!");
+	Console.WriteLine("HelloWorld!");
 	Console.ReadKey();
 }
